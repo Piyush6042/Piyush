@@ -4,7 +4,7 @@
     </head>    
     <body>    
         <link href = "registration.css" type = "text/css" rel = "stylesheet" />    
-        <h2>Registration Form Sign Up</h2>    
+        <h2> Form Sign Up</h2>    
         <form name = "form1" action="modified.php" method = "post" enctype = "multipart/form-data" >    
             <div class = "container">    
                 <div class = "form_group">    
